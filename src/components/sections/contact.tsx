@@ -68,8 +68,8 @@ export function Contact() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-purple-600 mx-auto rounded-full mb-8" />
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-            Have a project in mind or just want to chat? I'd love to hear from you. 
-            Send me a message and I'll respond as soon as possible.
+            Have a project in mind or just want to chat? I&apos;d love to hear from you. 
+            Send me a message and I&apos;ll respond as soon as possible.
           </p>
         </motion.div>
 
@@ -83,11 +83,11 @@ export function Contact() {
           >
             <div>
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                Let's Connect
+                Let&apos;s Connect
               </h3>
               <p className="text-gray-600 dark:text-gray-400 mb-8">
-                I'm always interested in new opportunities and exciting projects. 
-                Whether you have a question or just want to say hi, I'll try my best to get back to you!
+                I&apos;m always interested in new opportunities and exciting projects. 
+                Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
               </p>
             </div>
 

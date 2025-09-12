@@ -42,7 +42,7 @@ export function About() {
           >
             <div className="space-y-4">
               <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-                I'm a resourceful technology support professional with specialized skills in troubleshooting, 
+                I&apos;m a resourceful technology support professional with specialized skills in troubleshooting, 
                 software installation, and network configuration. Currently pursuing my Master of Computer 
                 Applications (MCA) at Institute of Professional Studies and Research (IPSAR).
               </p>
@@ -54,7 +54,7 @@ export function About() {
               </p>
               
               <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-                I'm passionate about technology and continuously learning new skills including web development, 
+                I&apos;m passionate about technology and continuously learning new skills including web development, 
                 database management, and modern AI tools. My goal is to leverage my technical expertise 
                 to create innovative solutions and contribute to meaningful projects.
               </p>
