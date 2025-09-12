@@ -1,6 +1,6 @@
-# Modern Portfolio Website
+# Dibyasachi Mohanty - Portfolio Website
 
-A modern, creative, and responsive personal portfolio website built with Next.js, React, TypeScript, and Tailwind CSS. Features smooth animations, dark/light mode, and a beautiful UI design.
+A modern, creative, and responsive personal portfolio website built with Next.js, React, TypeScript, and Tailwind CSS. Features smooth animations, dark/light mode, and a beautiful UI design showcasing professional experience in technology support.
 
 ## ✨ Features
 
@@ -15,14 +15,14 @@ A modern, creative, and responsive personal portfolio website built with Next.js
 ## 🚀 Sections
 
 - **Hero Section**: Eye-catching introduction with animated background
-- **About Me**: Bio, skills showcase, and downloadable resume
-- **Projects**: Grid layout with project cards and filtering
+- **About Me**: Professional bio, skills showcase, and downloadable resume
+- **Experience**: Professional work experience and educational background
 - **Contact**: Contact form and social media links
 - **Footer**: Minimal footer with social links
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 14 with App Router
+- **Framework**: Next.js 15 with App Router
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
@@ -33,8 +33,8 @@ A modern, creative, and responsive personal portfolio website built with Next.js
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd portfolio
+git clone https://github.com/Dibyasachi1/My-Portfolio.git
+cd My-Portfolio
 ```
 
 2. Install dependencies:
@@ -52,23 +52,20 @@ npm run dev
 ## 🎨 Customization
 
 ### Personal Information
-Update the following files with your information:
+The portfolio is already customized with:
+- **Name**: Dibyasachi Mohanty
+- **Title**: Technology Support Professional & MCA Student
+- **Contact**: dibyasachimohanty05@gmail.com
+- **Location**: Jagatsinghpur, Odisha
+- **LinkedIn**: [https://www.linkedin.com/in/dibyasachi-mohanty-b65575211/](https://www.linkedin.com/in/dibyasachi-mohanty-b65575211/)
 
-1. **`src/data/social.ts`** - Update social media links
-2. **`src/data/projects.ts`** - Add your projects
-3. **`src/data/skills.ts`** - Update your skills
-4. **`src/app/layout.tsx`** - Update metadata and title
-5. **`public/resume.pdf`** - Replace with your actual resume
-
-### Styling
-- Colors and themes can be customized in `src/app/globals.css`
-- Component styles are in individual component files
-- Tailwind configuration is in `tailwind.config.js`
-
-### Content
-- Update the hero section text in `src/components/sections/hero.tsx`
-- Modify the about section content in `src/components/sections/about.tsx`
-- Add your projects in `src/data/projects.ts`
+### Skills Showcased
+- HTML, CSS, JavaScript
+- MySQL Database
+- Adobe Photoshop & Lightroom
+- PowerPoint Design
+- Generative AI Tools (ChatGPT, Gemini)
+- Troubleshooting & Network Configuration
 
 ## 🚀 Deployment
 
@@ -117,6 +114,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+**Dibyasachi Mohanty** - dibyasachimohanty05@gmail.com
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+**LinkedIn**: [https://www.linkedin.com/in/dibyasachi-mohanty-b65575211/](https://www.linkedin.com/in/dibyasachi-mohanty-b65575211/)
+
+**Phone**: +91 9437691647
+
+**Location**: Jagatsinghpur, Odisha 754132
+
+Project Link: [https://github.com/Dibyasachi1/My-Portfolio](https://github.com/Dibyasachi1/My-Portfolio)
