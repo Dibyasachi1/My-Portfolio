@@ -42,6 +42,7 @@ export function Footer() {
               and user-centered digital experiences.
             </p>
             <div className="flex space-x-4">
+              
               {socialLinks.map((social) => (
                 <motion.a
                   key={social.name}
