@@ -1,11 +1,13 @@
 {
-          {
-          "functions": {
-            "api/**/*.js": {
-              "runtime": "@vercel/node@20.x"
-            }
-          }
-        }
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "installCommand": "npm install",
+  "devCommand": "npm run dev",
+  "regions": ["iad1"],
+  "functions": {
+    "src/app/api/**/*.ts": {
+      "runtime": "vercel/node@20.x"
     }
   },
   "headers": [
