@@ -6,7 +6,7 @@
   "devCommand": "npm run dev",
   "regions": ["iad1"],
   "functions": {
-    "src/app/api/**/*.js": {
+    "src/app/api/**/*.ts": {
       "runtime": "vercel/node@20.x"
     }
   },
