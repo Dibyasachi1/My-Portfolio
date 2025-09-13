@@ -35,7 +35,7 @@ export function Footer() {
             className="space-y-4"
           >
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Your Name
+              Dibyasachi Mohanty
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Full Stack Developer passionate about creating beautiful, functional, 
@@ -97,9 +97,9 @@ export function Footer() {
           >
             <h4 className="text-lg font-semibold text-white">Get In Touch</h4>
             <div className="space-y-2 text-gray-400">
-              <p>your.email@example.com</p>
-              <p>+1 (555) 123-4567</p>
-              <p>San Francisco, CA</p>
+              <p>dibyasachimohanty05@gmail.com</p>
+              <p>+91 7008822689</p>
+              <p>Jagatsinghpur, Odisha</p>
             </div>
           </motion.div>
         </div>
@@ -113,7 +113,7 @@ export function Footer() {
           className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center"
         >
           <p className="text-gray-400 text-sm">
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Dibyasachi Mohanty. All rights reserved.
           </p>
           <motion.p
             whileHover={{ scale: 1.05 }}

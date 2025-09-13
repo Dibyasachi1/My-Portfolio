@@ -52,7 +52,7 @@ export function Navigation() {
             className="flex-shrink-0"
           >
             <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Dibyasachi Mohanty
+              DM
             </span>
           </motion.div>
 

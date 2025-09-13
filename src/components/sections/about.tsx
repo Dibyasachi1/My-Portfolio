@@ -135,7 +135,7 @@ export function About() {
             { number: '1+', label: 'Year Experience' },
             { number: 'MCA', label: 'Current Study' },
             { number: '100%', label: 'Task Completion' },
-            { number: '3', label: 'Languages Known' },
+            { number: '10+', label: 'Languages Known' },
           ].map((stat, index) => (
             <motion.div
               key={stat.label}

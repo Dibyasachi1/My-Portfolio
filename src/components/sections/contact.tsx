@@ -115,7 +115,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 dark:text-white">Phone</h4>
-                  <p className="text-gray-600 dark:text-gray-400">+91 9437691647</p>
+                  <p className="text-gray-600 dark:text-gray-400">+91 7008822689</p>
                 </div>
               </motion.div>
 

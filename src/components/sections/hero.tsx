@@ -100,7 +100,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.6 }}
             className="text-2xl md:text-3xl text-gray-700 dark:text-gray-300 font-light"
           >
-            Technology Support Professional & MCA Student
+            Full Stack Developer
           </motion.h2>
 
           {/* Description */}

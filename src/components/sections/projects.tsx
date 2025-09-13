@@ -33,7 +33,6 @@ export function Projects() {
             Here are some of my professional experiences and projects that showcase my skills 
             in technology support and software development.
           </p>
-
           {/* Filter Buttons */}
           <div className="flex justify-center space-x-4">
             {[

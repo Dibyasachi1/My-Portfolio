@@ -5,9 +5,15 @@ export const skills: Skill[] = [
   { name: 'HTML', icon: '🌐', level: 85, category: 'frontend' },
   { name: 'CSS', icon: '🎨', level: 80, category: 'frontend' },
   { name: 'JavaScript', icon: '🟨', level: 75, category: 'frontend' },
+  { name: 'React', icon: '🟨', level: 75, category: 'frontend' },
+  { name: 'Next.js', icon: '🟨', level: 75, category: 'frontend' },
+  { name: 'Tailwind CSS', icon: '🟨', level: 75, category: 'frontend' },
+  { name: 'TypeScript', icon: '🟨', level: 75, category: 'frontend' },
   
   // Backend
-  { name: 'MySQL', icon: '🐬', level: 80, category: 'backend' },
+  { name: 'Node.js', icon: '🟨', level: 75, category: 'backend' },
+  { name: 'Express', icon: '🟨', level: 75, category: 'backend' },
+  { name: 'MongoDB', icon: '🟨', level: 75, category: 'backend' },
   
   // Tools
   { name: 'Adobe Photoshop', icon: '🎨', level: 85, category: 'tools' },
